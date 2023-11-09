@@ -1,4 +1,4 @@
-# sebagomez scoop bucket 
+# sebagomez scoop bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
 [![Tests](https://github.com/sebagomez/scoopbucket/actions/workflows/ci.yml/badge.svg)](https://github.com/sebagomez/scoopbucket/actions/workflows/ci.yml) [![Excavator](https://github.com/sebagomez/scoopbucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/sebagomez/scoopbucket/actions/workflows/excavator.yml)
