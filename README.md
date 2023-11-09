@@ -9,6 +9,6 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add sebagomez https://github.com/sebagomez/scoopbucket
-scoop install scoopbucket/<manifestname>
+scoop install sebagomez/<manifestname>
 ```
 
