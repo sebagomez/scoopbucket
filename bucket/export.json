@@ -3,7 +3,7 @@
     "description":"An approximation of the Unix export command",
     "homepage": "https://github.com/sebagomez/psutils",
     "license": "MIT",
-    "hash": "BDC2797D4E9DA4BA65E3AD0383420F6C5A6AFFA555D1623036FDBDB654EFF4E2",
+    "hash": "6003bbc07f8a356c24f59dd48630e21fca603331cc4e540dfcb306df0b9c532e",
     "url": "https://raw.githubusercontent.com/sebagomez/PSutils/main/src/export.ps1",
     "bin": "export.ps1"
   }
