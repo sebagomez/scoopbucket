@@ -12,3 +12,4 @@ scoop bucket add sebagomez https://github.com/sebagomez/scoopbucket
 scoop install sebagomez/<manifestname>
 ```
 
+The source of these commands are in https://github.com/sebagomez/psutils
